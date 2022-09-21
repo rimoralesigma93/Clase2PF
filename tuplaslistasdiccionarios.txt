@@ -1,0 +1,12 @@
+tupla = "Python", True, 5.10, 5, [10]
+print(tupla)
+('Python', True, 5.1, 5, [10])
+lista=list(tupla)
+print("lista es ", lista)
+lista es  ['Python', True, 5.1, 5, [10]]
+diccionario = {1,2,3,4,5}
+print(diccionario)
+{1, 2, 3, 4, 5}
+diccionario = dict({"1,2,3,4,5": lista})}
+print(diccionario)
+{'1,2,3,4,5': ['Python', True, 5.1, 5, [10]]}

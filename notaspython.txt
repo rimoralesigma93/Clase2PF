@@ -1,0 +1,12 @@
+python funciones
+def es la definicion de funcion
+
+def resta(a,b)
+	return a-b
+
+def suma(a,b)
+	return a+b
+
+def resta(a=None, b=None)
+	if a==None or b==None
+  
